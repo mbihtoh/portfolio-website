@@ -1,9 +1,9 @@
 # this is my first mbihtoh-repository
-## this is the headling 2 in the maarkdown language
-### Headling 3
-#### Headling 4
-##### HEadling 5
-###### Headling 6
+## this is the headling 2 in the markdown language
+### Heading 3
+#### Heading 4
+##### HEading 5
+###### Heading 6
 
 This is a normal paragraph
 
