@@ -1,5 +1,5 @@
-#this is my first mbihtoh-repository
-##this is the headling 2 in the maarkdown language
+# this is my first mbihtoh-repository
+## this is the headling 2 in the maarkdown language
 ### Headling 3
 #### Headling 4
 ##### HEadling 5
